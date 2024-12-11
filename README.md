@@ -1,2 +1,2 @@
 # ControlMaster_oss
-Ugly old school pterodactyl management panel
+Ugly ass shitty old school pterodactyl management panel
